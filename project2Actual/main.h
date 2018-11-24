@@ -4,6 +4,7 @@
 #include "graph.h"
 #include "utils.h"
 #include <stdlib.h>
+#include <stdio.h>
 
 void dijsktra(struct Graph* graph, int src, int dest, int flag)
 {
