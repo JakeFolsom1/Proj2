@@ -1,0 +1,11 @@
+CXXFLAGS=-I -std=c++11 -Wall -pedantic -ggdb
+
+BIN=proj1
+
+all: $(OBJ)
+
+	$(CXX) -o $(BIN) $(wildcard *.cpp)
+
+clean:
+	rm -f $(wildcard *.o)
+	rm $(BIN)
