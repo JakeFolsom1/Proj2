@@ -1,6 +1,7 @@
 #include "heap.h"
 #include <iostream>
 #include <limits.h>
+#include <stdio.h>
 void processResult(int dist[], int n, int dest) {
 	if (dist[dest] == INT_MAX) {
 		printf("Sorry, node %d is not reachable from node %d\n", dest, n);

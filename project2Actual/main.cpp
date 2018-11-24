@@ -6,7 +6,7 @@
 #include <fstream>
 #include <climits>
 #include <string>
-#include <regex>
+#include <stdlib.h>
 
 Graph* fileRead(Graph* graph) {
 	ifstream file;
