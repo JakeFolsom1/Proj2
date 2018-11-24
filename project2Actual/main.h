@@ -3,6 +3,7 @@
 #include "heap.h"
 #include "graph.h"
 #include "utils.h"
+#include <stdlib.h>
 
 void dijsktra(struct Graph* graph, int src, int dest, int flag)
 {
