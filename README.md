@@ -1,0 +1,2 @@
+# Proj2
+About: This is desgined to use the heap and graph data structures in order to calculate the shortest path between two nodes. Furhter command instructions are listed in the program compilation menu and should be looked into for further command instructions. All test cases were tested and passed with this program in a linux enviornment, if there are any problems please contact me immediantly.
