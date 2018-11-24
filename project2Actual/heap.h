@@ -1,6 +1,7 @@
 #pragma once
 #include <math.h>
 #include <limits.h>
+#include <stdlib.h>
 
 using namespace std;
 static int LEFT(int n) {
