@@ -1,6 +1,6 @@
 CXXFLAGS=-I -std=c++11 -Wall -pedantic -ggdb
 
-BIN=proj1
+BIN=project2Actual
 
 all: $(OBJ)
 
